@@ -1,0 +1,102 @@
+[
+  {
+    "id": "teacher-1",
+    "name": "张明华",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "title": "首席钢琴教师",
+    "specialty": ["piano"],
+    "experience": 15,
+    "bio": "毕业于中央音乐学院钢琴表演专业,拥有15年教学经验。曾在多个国际钢琴比赛中获奖,培养学生超过200名,其中多名学生考入国内外知名音乐学院。",
+    "education": [
+      "中央音乐学院钢琴表演硕士",
+      "维也纳音乐学院访问学者"
+    ],
+    "achievements": [
+      "肖邦国际钢琴比赛银奖",
+      "全国优秀钢琴教师奖",
+      "出版钢琴教材《现代钢琴演奏技法》"
+    ],
+    "rating": 4.9,
+    "studentsCount": 230
+  },
+  {
+    "id": "teacher-2",
+    "name": "李雨桐",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+    "title": "资深吉他导师",
+    "specialty": ["guitar"],
+    "experience": 12,
+    "bio": "专注于古典吉他和民谣吉他教学,擅长将现代流行音乐与传统技法结合。教学风格轻松活泼,深受年轻学员喜爱。",
+    "education": [
+      "上海音乐学院吉他演奏学士",
+      "伯克利音乐学院现代音乐研修"
+    ],
+    "achievements": [
+      "全国吉他大赛金奖",
+      "独立音乐人专辑《指尖旋律》",
+      "YouTube吉他教学频道50万订阅"
+    ],
+    "rating": 4.8,
+    "studentsCount": 180
+  },
+  {
+    "id": "teacher-3",
+    "name": "王艺涵",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+    "title": "小提琴演奏家",
+    "specialty": ["violin"],
+    "experience": 18,
+    "bio": "国家一级演奏员,曾任国家交响乐团首席小提琴手。精通古典小提琴演奏技法,对音乐教育有独到见解。",
+    "education": [
+      "中央音乐学院小提琴表演博士",
+      "茱莉亚音乐学院交流学者"
+    ],
+    "achievements": [
+      "帕格尼尼国际小提琴比赛优秀奖",
+      "国家艺术基金资助项目主持人",
+      "出版小提琴教学DVD《从零开始学小提琴》"
+    ],
+    "rating": 5.0,
+    "studentsCount": 150
+  },
+  {
+    "id": "teacher-4",
+    "name": "赵峰",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+    "title": "架子鼓大师",
+    "specialty": ["drum"],
+    "experience": 10,
+    "bio": "摇滚乐队专业鼓手出身,对现代流行音乐节奏有深刻理解。教学注重节奏感培养和实战演练,课堂氛围活跃。",
+    "education": [
+      "星海音乐学院打击乐表演专业",
+      "洛杉矶音乐学院爵士鼓研修"
+    ],
+    "achievements": [
+      "多个知名乐队御用鼓手",
+      "全国架子鼓大赛评委",
+      "音乐节特邀表演嘉宾"
+    ],
+    "rating": 4.7,
+    "studentsCount": 120
+  },
+  {
+    "id": "teacher-5",
+    "name": "陈雪莹",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop",
+    "title": "钢琴与吉他双修导师",
+    "specialty": ["piano", "guitar"],
+    "experience": 8,
+    "bio": "跨界音乐人,精通钢琴和吉他两种乐器。擅长流行音乐改编和即兴演奏,帮助学员快速掌握实用演奏技巧。",
+    "education": [
+      "四川音乐学院作曲与作曲技术理论专业",
+      "网络音乐制作人认证"
+    ],
+    "achievements": [
+      "原创歌曲《时光》全网播放量破亿",
+      "多个品牌音乐合作项目",
+      "线上音乐课程学员超10万"
+    ],
+    "rating": 4.8,
+    "studentsCount": 200
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "id": "course-1",
+    "title": "零基础钢琴入门课程",
+    "instrument": "piano",
+    "level": "beginner",
+    "price": 2999,
+    "duration": 24,
+    "teacherId": "teacher-1",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "专为零基础学员设计的钢琴启蒙课程,从认识键盘、基础乐理到简单曲目演奏,循序渐进。课程包含24节课时,每节课45分钟,配有丰富的练习曲目和视频示范。张明华老师将手把手带您进入钢琴的世界,培养正确的演奏姿势和良好的音乐感觉。",
+    "thumbnail": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-4课:认识钢琴键盘与基础乐理",
+      "第5-8课:手型训练与手指独立性练习",
+      "第9-12课:简单旋律演奏与节奏训练",
+      "第13-16课:双手配合与和弦入门",
+      "第17-20课:经典儿歌与流行曲目",
+      "第21-24课:综合演奏与音乐表现力"
+    ],
+    "rating": 4.9,
+    "studentsCount": 456,
+    "features": [
+      "24节精品视频课程",
+      "配套练习曲谱下载",
+      "专属学习社群",
+      "教师在线答疑"
+    ]
+  },
+  {
+    "id": "course-2",
+    "title": "古典钢琴进阶技法",
+    "instrument": "piano",
+    "level": "intermediate",
+    "price": 4999,
+    "duration": 36,
+    "teacherId": "teacher-1",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "针对有一定基础的学员,系统学习古典钢琴演奏技法。包括音阶、琶音、和弦等技术训练,以及巴赫、莫扎特、贝多芬等大师作品解析与演奏。提升演奏技巧的同时,深入理解古典音乐的内涵与表达。",
+    "thumbnail": "https://images.unsplash.com/photo-1552422535-c45813c61732?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-6课:高级音阶与琶音训练",
+      "第7-12课:巴赫二部创意曲解析",
+      "第13-18课:莫扎特奏鸣曲演奏技巧",
+      "第19-24课:肖邦练习曲专题",
+      "第25-30课:贝多芬月光奏鸣曲",
+      "第31-36课:音乐会作品与舞台表现"
+    ],
+    "rating": 5.0,
+    "studentsCount": 234,
+    "features": [
+      "36节高阶课程",
+      "大师作品深度解析",
+      "演奏示范视频",
+      "一对一点评指导"
+    ]
+  },
+  {
+    "id": "course-3",
+    "title": "民谣吉他速成班",
+    "instrument": "guitar",
+    "level": "beginner",
+    "price": 1999,
+    "duration": 20,
+    "teacherId": "teacher-2",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "最受欢迎的吉他入门课程!20节课带你从零基础到能够弹唱流行歌曲。李雨桐老师用最简单的方法教会你和弦、节奏型和扫弦技巧,配合精选的经典歌曲练习,让你快速上手,成为派对明星。",
+    "thumbnail": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-4课:吉他构造与基础调音",
+      "第5-8课:常用和弦与转换练习",
+      "第9-12课:右手节奏型与扫弦",
+      "第13-16课:流行歌曲弹唱技巧",
+      "第17-20课:综合演练与舞台表现"
+    ],
+    "rating": 4.8,
+    "studentsCount": 678,
+    "features": [
+      "20节快速入门课程",
+      "50首流行歌曲曲谱",
+      "吉他选购指南",
+      "线上陪练社群"
+    ]
+  },
+  {
+    "id": "course-4",
+    "title": "指弹吉他艺术",
+    "instrument": "guitar",
+    "level": "advanced",
+    "price": 5999,
+    "duration": 40,
+    "teacherId": "teacher-2",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "深入探索指弹吉他的艺术世界。学习复杂的指法技巧、编曲思路和即兴演奏。课程包含押尾光太郎、岸部真明等大师作品的详细讲解,带你进入指弹吉他的高阶殿堂。",
+    "thumbnail": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-8课:高级指法技巧训练",
+      "第9-16课:和声与编曲理论",
+      "第17-24课:押尾光太郎作品解析",
+      "第25-32课:即兴演奏与创作",
+      "第33-40课:音乐会级作品演奏"
+    ],
+    "rating": 4.9,
+    "studentsCount": 145,
+    "features": [
+      "40节大师级课程",
+      "经典曲目谱例",
+      "演奏技巧视频库",
+      "作品点评与指导"
+    ]
+  },
+  {
+    "id": "course-5",
+    "title": "小提琴基础教程",
+    "instrument": "violin",
+    "level": "beginner",
+    "price": 3499,
+    "duration": 30,
+    "teacherId": "teacher-3",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "系统的小提琴入门课程,由国家一级演奏员王艺涵老师亲自授课。从持琴姿势、运弓方法到音准训练,每个细节都精心讲解。课程注重基本功训练,为进一步学习打下坚实基础。",
+    "thumbnail": "https://images.unsplash.com/photo-1612225330812-01a9c6b355ec?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-6课:小提琴持琴与运弓基础",
+      "第7-12课:左手按弦与音准训练",
+      "第13-18课:常用音阶与练习曲",
+      "第19-24课:简单乐曲演奏",
+      "第25-30课:音乐表现力培养"
+    ],
+    "rating": 5.0,
+    "studentsCount": 289,
+    "features": [
+      "30节系统课程",
+      "演奏姿势矫正",
+      "音准训练APP",
+      "每周作业点评"
+    ]
+  },
+  {
+    "id": "course-6",
+    "title": "古典小提琴演奏精讲",
+    "instrument": "violin",
+    "level": "advanced",
+    "price": 6999,
+    "duration": 48,
+    "teacherId": "teacher-3",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "高阶小提琴演奏课程,深入学习维瓦尔第、帕格尼尼等大师作品。王艺涵老师结合多年演奏经验,传授高难度技巧和舞台表演技巧,助你达到专业水准。",
+    "thumbnail": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-12课:高级技巧专项训练",
+      "第13-24课:巴洛克时期作品",
+      "第25-36课:浪漫主义时期经典",
+      "第37-48课:现代作品与演出实践"
+    ],
+    "rating": 5.0,
+    "studentsCount": 98,
+    "features": [
+      "48节专业级课程",
+      "大师作品全解析",
+      "演奏会指导",
+      "考级考试辅导"
+    ]
+  },
+  {
+    "id": "course-7",
+    "title": "架子鼓节奏训练营",
+    "instrument": "drum",
+    "level": "beginner",
+    "price": 2499,
+    "duration": 24,
+    "teacherId": "teacher-4",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "最有节奏感的课程!从零开始学架子鼓,掌握基本节奏型和演奏技巧。赵峰老师用最酷的方式教你打鼓,课程包含流行、摇滚、爵士等多种风格的节奏训练。",
+    "thumbnail": "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-4课:架子鼓认识与握槌姿势",
+      "第5-8课:基本节奏型训练",
+      "第9-12课:手脚配合练习",
+      "第13-16课:流行音乐节奏",
+      "第17-20课:摇滚鼓点技巧",
+      "第21-24课:实战演练与即兴"
+    ],
+    "rating": 4.7,
+    "studentsCount": 345,
+    "features": [
+      "24节动感课程",
+      "节奏训练软件",
+      "练习伴奏音轨",
+      "在线节拍器工具"
+    ]
+  },
+  {
+    "id": "course-8",
+    "title": "爵士鼓高级技法",
+    "instrument": "drum",
+    "level": "advanced",
+    "price": 5499,
+    "duration": 36,
+    "teacherId": "teacher-4",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "进入爵士鼓的高阶世界,学习复杂的爵士节奏、拉丁节奏和融合风格。赵峰老师分享专业乐队演奏经验,提升你的即兴能力和舞台表现力。",
+    "thumbnail": "https://images.unsplash.com/photo-1571327073757-71d13c24de30?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-9课:爵士节奏基础与变化",
+      "第10-18课:拉丁节奏专题",
+      "第19-27课:复杂节奏型与填充",
+      "第28-36课:即兴演奏与乐队合作"
+    ],
+    "rating": 4.8,
+    "studentsCount": 156,
+    "features": [
+      "36节专业课程",
+      "大师级技巧演示",
+      "乐队合作训练",
+      "演出机会推荐"
+    ]
+  },
+  {
+    "id": "course-9",
+    "title": "流行钢琴弹唱课",
+    "instrument": "piano",
+    "level": "intermediate",
+    "price": 3999,
+    "duration": 28,
+    "teacherId": "teacher-5",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "学会用钢琴弹唱你喜欢的流行歌曲!陈雪莹老师教你和弦配置、伴奏编排和演唱技巧,让你成为自弹自唱的音乐达人。课程精选50首热门流行曲目。",
+    "thumbnail": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-7课:流行和弦进行",
+      "第8-14课:伴奏织体设计",
+      "第15-21课:演唱与伴奏配合",
+      "第22-28课:歌曲改编与创作"
+    ],
+    "rating": 4.8,
+    "studentsCount": 512,
+    "features": [
+      "28节实战课程",
+      "50首流行曲目",
+      "和弦速查手册",
+      "改编技巧分享"
+    ]
+  },
+  {
+    "id": "course-10",
+    "title": "吉他指板理论精讲",
+    "instrument": "guitar",
+    "level": "intermediate",
+    "price": 3499,
+    "duration": 30,
+    "teacherId": "teacher-5",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "深入理解吉他指板的奥秘,掌握音阶、和弦、琶音在指板上的分布规律。陈雪莹老师用可视化方法讲解复杂理论,让你真正理解而不是死记硬背。",
+    "thumbnail": "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-6课:指板音符与音程",
+      "第7-12课:各调音阶系统",
+      "第13-18课:和弦构成与指型",
+      "第19-24课:琶音与分解和弦",
+      "第25-30课:应用实践与即兴"
+    ],
+    "rating": 4.9,
+    "studentsCount": 267,
+    "features": [
+      "30节理论课程",
+      "指板图示工具",
+      "练习伴奏下载",
+      "理论测试题库"
+    ]
+  },
+  {
+    "id": "course-11",
+    "title": "小提琴音乐会曲目特训",
+    "instrument": "violin",
+    "level": "intermediate",
+    "price": 4499,
+    "duration": 32,
+    "teacherId": "teacher-3",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "精选音乐会常演曲目,包括《梁祝》、《流浪者之歌》等经典作品。王艺涵老师详细讲解每个乐句的处理方法,提升音乐表现力和舞台演出能力。",
+    "thumbnail": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-8课:《梁祝》完整演奏",
+      "第9-16课:《流浪者之歌》技巧",
+      "第17-24课:巴赫无伴奏组曲",
+      "第25-32课:舞台表演与心理调适"
+    ],
+    "rating": 4.9,
+    "studentsCount": 178,
+    "features": [
+      "32节音乐会课程",
+      "经典曲目精讲",
+      "舞台经验分享",
+      "演出视频录制"
+    ]
+  },
+  {
+    "id": "course-12",
+    "title": "现代流行架子鼓",
+    "instrument": "drum",
+    "level": "intermediate",
+    "price": 3999,
+    "duration": 28,
+    "teacherId": "teacher-4",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "description": "学习当下最流行的鼓点节奏,从抖音神曲到欧美热歌,掌握各种流行风格的演奏技巧。赵峰老师带你紧跟音乐潮流,成为最in的鼓手。",
+    "thumbnail": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&h=600&fit=crop",
+    "syllabus": [
+      "第1-7课:流行音乐鼓点解析",
+      "第7-14课:电音舞曲节奏",
+      "第15-21课:说唱音乐伴奏",
+      "第22-28课:热门歌曲实战演练"
+    ],
+    "rating": 4.7,
+    "studentsCount": 423,
+    "features": [
+      "28节潮流课程",
+      "热门歌曲谱例",
+      "伴奏音轨资源",
+      "演奏视频分享"
+    ]
+  }
+]

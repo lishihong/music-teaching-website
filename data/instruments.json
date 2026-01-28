@@ -1,0 +1,34 @@
+[
+  {
+    "id": "piano",
+    "name": "钢琴",
+    "nameEn": "Piano",
+    "description": "西洋古典乐器之王,音域宽广,表现力丰富",
+    "icon": "🎹",
+    "color": "#6366F1"
+  },
+  {
+    "id": "guitar",
+    "name": "吉他",
+    "nameEn": "Guitar",
+    "description": "最受欢迎的流行乐器,适合弹唱和独奏",
+    "icon": "🎸",
+    "color": "#8B5CF6"
+  },
+  {
+    "id": "violin",
+    "name": "小提琴",
+    "nameEn": "Violin",
+    "description": "弦乐器皇后,音色优美动人",
+    "icon": "🎻",
+    "color": "#EC4899"
+  },
+  {
+    "id": "drum",
+    "name": "架子鼓",
+    "nameEn": "Drum",
+    "description": "节奏乐器之魂,释放音乐激情",
+    "icon": "🥁",
+    "color": "#F59E0B"
+  }
+]
